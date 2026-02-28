@@ -22,7 +22,7 @@ Execution:
 
 To run the utility, use the following loadstring in your executor:
 ```lua
-loadstring(game:HttpGet("[https://raw.githubusercontent.com/ZentosDevOFF/SynSaveInstance-/main/ssi%2B%2B.lua](https://raw.githubusercontent.com/ZentosDevOFF/SynSaveInstance-/main/ssi%2B%2B.lua)"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZentosDevOFF/SynSaveInstance-/main/ssi%2B%2B.lua"))()
 ```
 
 Credits:
